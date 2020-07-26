@@ -1,0 +1,23 @@
+body{
+    font: 1em sans-serif;
+    text-align: center;
+    background-color: white;
+
+}
+
+h1{
+    color: navy;
+}
+
+p{
+    
+    border: 2px solid gainsboro;
+    padding: 30px;
+
+}
+
+footer{
+    text-decoration: lightcyan;
+    border: 2px solid gainsboro;
+    padding: 10px;
+}
